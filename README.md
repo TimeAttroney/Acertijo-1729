@@ -22,7 +22,7 @@ Este es el código a traducir:
 1:1:2:3
 1:1:1:2
 
-Junte todos los caracteres resultantes y búsque una comunidad de reddit llamada así, siga sus instrucciones.
+Junte todos los caracteres resultantes y busque una comunidad de reddit llamada así, siga sus instrucciones.
 
 Buena suerte.
 
