@@ -6,6 +6,7 @@ Volumen:Capítulo:Palabra:Letra
 
 Un ejemplo sería: 1:1:4:1 "dos" 1:1:4:2 se traduciría por : i2n
 
+Este es el código a traducir:
 1:1:20:1
 "siete"
 1:1:7:6
